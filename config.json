@@ -1,9 +1,10 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["33775804415@s.whatsapp.net","62887435047326@s.whatsapp.net"],
+    "ownerName": "꧁ঔ☠︎₷𝘂𝗻ℊᎫ𝒊𝙣𝙒ℴℴ☠︎ঔ꧂
+",
     "instagram" : "https://instagram.com/zeeoneofc",
     "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "botName": "BOKU NO PICO",
     "footer": "2023 © api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
@@ -20,7 +21,7 @@
     "japriOnly": false, 
     "antiDelete": false,
     "autobio": false,
-    "anticall": true,
+    "anticall": false,
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
